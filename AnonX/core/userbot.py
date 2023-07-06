@@ -48,9 +48,9 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("VpsPortal")
-                await self.one.join_chat("NidhiStatus")
-                await self.one.join_chat("ExtremeFlash")
+                await self.one.join_chat("Incricible")
+                await self.one.join_chat("Incricible_network")
+                await self.one.join_chat("About_godfather")
             except:
                 pass
             assistants.append(1)
